@@ -1,0 +1,2 @@
+# LuckyLotto
+Nebulas Lucky Game
