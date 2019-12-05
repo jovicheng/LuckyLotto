@@ -502,7 +502,7 @@ export default {
 			let self = this
 			axios({
 				method: 'post',
-				url: 'https://mainnet.nebulas.io/v1/user/accountstate',
+				url: 'https://testnet.nebulas.io/v1/user/accountstate',
 				data: {
 					"address": self.address
 				}
