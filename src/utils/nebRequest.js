@@ -1,6 +1,6 @@
 export default function nebRequest (options) {
   // var dappAddress = 'n1zT4n7MzWCxKWzpQJ5yVEqDEVt6xez6VKu'
-  var dappAddress = 'n1jo9c839go3k1SKXLaLpXUo3oX6wARpMyH' // 测试网
+  var dappAddress = 'n22yn1GPeza2y6y6WY4Nm9d2iHEX4XpNhbU' // 测试网
   // 主网地址
   var nebulas = require('nebulas')
 
