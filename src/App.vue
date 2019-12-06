@@ -587,7 +587,8 @@ export default {
               backgroundPositionY: numImgHeight * (60 - num_arr[index])
             },
             {
-              duration: 500 + (3 - innerIndex) * 3000,
+              // duration: 500 + (3 - innerIndex) * 3000,
+              duration: 10,
               easing: "easeInOutCirc",
               complete: function() {
                 if (index == 0) {
